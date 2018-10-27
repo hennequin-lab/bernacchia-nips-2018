@@ -1,2 +1,3 @@
-# bernacchia-nips-2018
-Code for Bernacchia et al. NIPS 2018
+# Natural gradient for deep linear networks
+
+Code for Bernacchia et al. NIPS 2018.
