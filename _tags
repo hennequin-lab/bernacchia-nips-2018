@@ -1,0 +1,4 @@
+true: package(cmdargs,owl)
+true: optimize(3)
+true: debug
+<lib>: include
